@@ -1,0 +1,15 @@
+//
+//  ViewController.h
+//  HoganTestPodView
+//
+//  Created by ZhangLei on 16/8/18.
+//  Copyright © 2016年 Allone. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+
+@end
+
